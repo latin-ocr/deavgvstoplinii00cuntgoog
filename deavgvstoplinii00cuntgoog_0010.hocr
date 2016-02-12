@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deavgvstoplinii00cuntgoog_0010.png"; bbox 0 0 3634 5242; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 604 2202 1265 2630">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 604 2202 1265 2630">
+     <span class='ocr_line' id='line_1_1' title="bbox 604 2202 1265 2362; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 604 2259 900 2362; x_wconf 71' lang='lat' dir='ltr'>FRANclsco</span> <span class='ocrx_word' id='word_1_2' title='bbox 940 2202 1265 2361; x_wconf 76' lang='lat' dir='ltr'>BVECHELER</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 709 2526 1167 2630; baseline 0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 709 2526 941 2628; x_wconf 74' lang='lat' dir='ltr'><strong>HENRlco</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 978 2527 1167 2630; x_wconf 76' lang='lat' dir='ltr'>NISSEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 654 2796 1317 2917">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 654 2796 1317 2917">
+     <span class='ocr_line' id='line_1_3' title="bbox 654 2796 1317 2917; baseline 0.006 -20"><span class='ocrx_word' id='word_1_5' title='bbox 654 2796 960 2898; x_wconf 83' lang='lat' dir='ltr'>HERMANNO</span> <span class='ocrx_word' id='word_1_6' title='bbox 997 2797 1211 2901; x_wconf 85' lang='lat' dir='ltr'>VSENER</span> <span class='ocrx_word' id='word_1_7' title='bbox 1314 2911 1317 2917; x_wconf 60' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1822 5242">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1822 5242">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1822 5242; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1822 5242; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
